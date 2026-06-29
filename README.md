@@ -1,36 +1,19 @@
-# CriciDev
+Hello World!
 
-Comunidade de desenvolvedores de Criciúma e região, criada para conectar pessoas, compartilhar conhecimento e fortalecer o ecossistema local de tecnologia.
+# Quem somos
 
-## Sobre
-
-A CriciDev reúne pessoas interessadas em desenvolvimento de software, open source, carreira, eventos, projetos colaborativos e troca de experiências na área de tecnologia.
-
-Site oficial: https://criciumadevs.com.br/
+Somos uma comunidade em crescimento de desenvolvedores da região de Criciúma - SC, tendo nosso principal foco conectar pessoas e compartilhar conhecimento ajudando o ecossistema local de tecnologia na região. Conectamos devs do Sul de SC para crescermos juntos!
 
 ## Projetos
 
-Nesta organização ficam os repositórios mantidos pela comunidade, incluindo projetos de backend, frontend, documentação, automações e iniciativas abertas para contribuição.
+Temos diversos projetos onde você pode se encaixar, seja backend, frontend, etc... 
+Não achou nada que seja do seu interesse? Abre uma issue sugerindo um projeto com a stack para ser utilizada e qual seria a importância para podermos analisar.
 
-## Como contribuir
+## Como participar
 
-Você pode contribuir de várias formas:
+Você pode ajudar criando ISSUES ou ajudando em projetos que estão em andamento aqui mesmo pelo GITHUB.
 
-- Abrindo issues com sugestões, bugs ou melhorias
-- Pegando issues marcadas como `good first issue`
-- Enviando pull requests
-- Melhorando documentação
-- Participando das discussões da comunidade
-
-## Primeiros passos
-
-1. Escolha um repositório da organização
-2. Leia o README do projeto
-3. Procure uma issue disponível
-4. Crie uma branch para sua contribuição
-5. Abra um pull request descrevendo o que foi feito
-
-## Links
-
-- Site: https://criciumadevs.com.br/
-- GitHub: https://github.com/CriciDev
+## Quer crescer com a gente?
+[whatsapp](https://chat.whatsapp.com/BfQopKN9ieVAz20FFwP1mb)
+[Discord](https://discord.gg/XaQhWEucMA)
+[Site](https://criciumadevs.com.br/)
